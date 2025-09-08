@@ -93,9 +93,9 @@ While this is a personal portfolio, I welcome suggestions and feedback! Feel fre
 
 ## 📬 Contact
 
-- **Portfolio**: [https://leviportfolio.vercel.app](https://leviportfolio.vercel.app)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/ahmad-sahl-p)
-- **GitHub**: [Your GitHub Profile](https://github.com/doyz21)
+- **Portfolio**: [My Portfolio](https://leviportfolio.vercel.app)
+- **LinkedIn**: [My LinkedIn Profile](https://linkedin.com/in/ahmad-sahl-p)
+- **GitHub**: [My GitHub Profile](https://github.com/doyz21)
 
 ## 📄 License
 
@@ -113,3 +113,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 **Made with ❤️ by Ahmad SP**
+
