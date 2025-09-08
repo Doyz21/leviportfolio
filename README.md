@@ -49,7 +49,7 @@ Intelligent and powerful workflow automation built with n8n. Integrating apps/se
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/Doyz21/leviportfolio.git
 ```
 
 2. Navigate to the project directory:
@@ -110,5 +110,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ If you found this portfolio helpful or inspiring, please consider giving it a star!
+
 
 **Made with ❤️ by Ahmad SP**
