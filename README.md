@@ -49,12 +49,12 @@ Intelligent and powerful workflow automation built with n8n. Integrating apps/se
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Doyz21/leviportfolio.git
+git clone https://github.com/Madz-21/leviportfolio.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd portfolio-website
+cd leviportfolio
 ```
 
 3. Open `index.html` in your browser or serve it using a local server:
@@ -113,4 +113,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 **Made with ❤️ by Ahmad SP**
+
 
